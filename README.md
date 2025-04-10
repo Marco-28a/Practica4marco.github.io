@@ -93,9 +93,9 @@
             <h2>Servicios</h2>
             <p>Describe los servicios que ofreces o la informacián que quieres compartir.</p>
             <ul>
-                <li>Servicio 1</li>
-                <li>Servicio 2</li>
-                <li>Servicio 3</li>
+                <li>transporte de maquinaria</li>
+                <li>transporte de alimentos</li>
+                <li>coordinacion de rutas logisticas</li>
             </ul>
         </section>
 
